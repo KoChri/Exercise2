@@ -1,0 +1,22 @@
+#It has 4 legs but cannot walk.
+	table
+#Young I'm tall, old I'm short, I love to glow, breath is my foe.
+	candle
+#Stay Hungry, stay ...
+	foolish
+#What digit is the most frequent between the numbers 1 and 1000? 
+	300 counts for 2-9, 301 for 1 and 194 for 0. So its 1.
+#May the ... be with you
+	force
+#What planet has the shortest year?
+	mercury
+#An ... a day keeps the doctor away
+	apple
+#I'll be ...
+	back
+#Alive without breath, as cold as death; never thirsty, ever drinking, all in mail, never clinking.
+	fish
+#What gets wetter and wetter the more it dries?
+	towel
+#What is black and white and red all over?
+	newspaper
